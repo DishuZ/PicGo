@@ -1,0 +1,2 @@
+# PicGo
+config PicGo
